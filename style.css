@@ -1,0 +1,59 @@
+/*告示栏CSS*/
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.popup {
+  width: 400px;
+  background-color: black;
+  padding: 20px;
+  text-align: center;
+}
+
+.popup h1 {
+  font-size: 24px;
+}
+
+.popup p {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.popup button.close {
+  background-color: #F0F0F0;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+   #closeButton { 
+   border-radius: 10px;   /* 圆角半径 */
+}
+ .image-container {
+  max-width: 100%; /* 设置父容器的最大宽度为100%，以使图片自适应屏幕 */
+}
+  #img6 { 
+   max-width: 100%; /* 设置父容器的最大宽度为100%，以使图片自适应屏幕 */ 
+ }
+
+
+
+ .title {
+            color: #333;
+            line-height: 2px;
+        }
+
+        .title p:hover {
+            background-position-x: left;
+            background-size: 100% 2px;
+        }
+   
