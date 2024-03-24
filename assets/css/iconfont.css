@@ -1,0 +1,167 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2825769 */
+  src: url('../webfonts/iconfont.woff2?t=1632240666979') format('woff2'),
+       url('../webfonts/iconfont.woff?t=1632240666979') format('woff'),
+       url('../webfonts/iconfont.ttf?t=1632240666979') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 24px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-twitter:before {
+  content: "\e872";
+}
+
+.icon-facebook:before {
+  content: "\e686";
+}
+
+.icon-youtube:before {
+  content: "\e621";
+}
+
+.icon-github:before {
+  content: "\e673";
+}
+
+.icon-qq:before {
+  content: "\e663";
+}
+
+.icon-youxiang:before {
+  content: "\e604";
+}
+
+.icon-bilibili:before {
+  content: "\e6b4";
+}
+
+.icon-auto:before {
+  content: "\e6eb";
+}
+
+.icon-all:before {
+  content: "\e6ef";
+}
+
+.icon-bussiness-man:before {
+  content: "\e6f0";
+}
+
+.icon-component:before {
+  content: "\e6f2";
+}
+
+.icon-code:before {
+  content: "\e6f3";
+}
+
+.icon-copy:before {
+  content: "\e6f4";
+}
+
+.icon-dollar:before {
+  content: "\e6f5";
+}
+
+.icon-history:before {
+  content: "\e6f8";
+}
+
+.icon-editor:before {
+  content: "\e6f6";
+}
+
+.icon-data:before {
+  content: "\e6f9";
+}
+
+.icon-gift:before {
+  content: "\e6fa";
+}
+
+.icon-integral:before {
+  content: "\e6fb";
+}
+
+.icon-nav-list:before {
+  content: "\e6fd";
+}
+
+.icon-pic:before {
+  content: "\e6ff";
+}
+
+.icon-Notvisible:before {
+  content: "\e6fe";
+}
+
+.icon-play:before {
+  content: "\e701";
+}
+
+.icon-rising:before {
+  content: "\e703";
+}
+
+.icon-QRcode:before {
+  content: "\e704";
+}
+
+.icon-rmb:before {
+  content: "\e705";
+}
+
+.icon-favorites-fill:before {
+  content: "\e721";
+}
+
+.icon-pic-fill:before {
+  content: "\e72e";
+}
+
+.icon-play-fill:before {
+  content: "\e72f";
+}
+
+.icon-stop-fill:before {
+  content: "\e738";
+}
+
+.icon-add:before {
+  content: "\e742";
+}
+
+.icon-ashbin:before {
+  content: "\e744";
+}
+
+.icon-atm:before {
+  content: "\e745";
+}
+
+.icon-bad:before {
+  content: "\e746";
+}
+
+.icon-editor1:before {
+  content: "\e74d";
+}
+
+.icon-jewelry:before {
+  content: "\e754";
+}
+
+.icon-bilibili-line:before {
+  content: "\e627";
+}
+
+.icon-weixin:before {
+  content: "\e795";
+}
+
