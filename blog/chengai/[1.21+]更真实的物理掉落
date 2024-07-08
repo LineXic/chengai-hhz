@@ -1,0 +1,25 @@
+这是一个非实验性的附加组件，它为 Minecraft 世界增加了更加沉浸的物理效果，使地面上的物品看起来更真实，玩家可以随意拾取。
+
+![物品效果](https://ip.klpbbs.com/attach.php?id=/forum/202407/08/111510ybxgyy5hl7hrvexl.png)
+
+玩家可以通过点击物品或长按右键来拾取地面上的物品，也可以通过潜行来拾取附近的多个物品。
+
+![拾取效果](https://ip.klpbbs.com/attach.php?id=/forum/202407/08/111537g7tkyo9uuyz9zits.png)
+
+![拾取效果](https://ip.klpbbs.com/attach.php?id=/forum/202407/08/111555jzirnbr9l02xhxyy.gif)
+
+![拾取效果](https://js-sq-data.klpbbs.com/image.php?filename=forum/202407/08/111635kkarmlrmsv2gr7uw.gif&type=view)
+
+物品保留了其原有属性，例如由下界合金制成的物品不会在岩浆中燃烧，物品在水中会漂浮。
+
+![物品漂浮](https://js-sq-data.klpbbs.com/image.php?filename=forum/202407/08/111648jks500kb5akrskkr.gif&type=view)
+
+还添加了与原版 Minecraft 相同的特性，物品在没有被命名或不是下界之星的情况下，会在 5 分钟后自动消失。
+
+![物品消失](https://js-sq-data.klpbbs.com/image.php?filename=forum/202407/08/111729a8lquhqywjpqpjjv.gif&type=view)
+
+# 下载
+
+| 名称 | 版本号 | 下载跳转 |
+| ---- | ------ | -------- |
+| 物理掉落 | 1.21+ | [下载（提取码:4721)](https://url63.ctfile.com/f/37196663-1320186490-d50303?p=4721) |
