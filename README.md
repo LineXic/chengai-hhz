@@ -11,3 +11,5 @@ https://chengai-hhz.mysxl.cn/
 # 开源
 
 本开源库在[此](https://goro.top/#)基础上二次修改，感谢GORO
+<br>
+原仓库在[这里](https://github.com/SMGoro/smgoro.github.io)
