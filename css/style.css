@@ -26,11 +26,11 @@ a {
 }*/
 
 @media (min-width: 1024px) {
-  .chengai {
+    /* .chengai {
     min-height: 100vh;
     display: flex;
     align-self: ;lign-items: center;
-  }
+  }*/
   .logo {
   display: block;
   margin: 0 auto 2rem;
