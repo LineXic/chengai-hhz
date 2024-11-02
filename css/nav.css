@@ -1,1 +1,71 @@
+/* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}*/
 
+.navbar {
+position:fixed;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 轻微的阴影 */
+  width: 100%;
+  /* position: fixed; /固定定位 */
+  top: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  padding: 10px 20px;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.nav-menu {
+  list-style: none;
+  display: flex;
+}
+
+.nav-menu li {
+  padding: 0 10px;
+}
+
+.nav-menu a {
+  text-decoration: none;
+  color: white;
+  transition: color 0.3s ease;
+}
+
+.nav-menu a:hover {
+  color: #f1c40f;
+}
+
+.nav-toggle {
+
+  display: none;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .nav-menu {
+    position: absolute;
+    right: 0;
+    top: 60px;
+    background-color: #333;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    display: none;
+  }
+
+  .nav-menu.active {
+    display: flex;
+  }
+
+  .nav-menu li {
+    padding: 10px 
+  }
+
+  .nav-toggle {
+    display: block;
+  }
+}

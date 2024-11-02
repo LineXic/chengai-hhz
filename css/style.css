@@ -1,0 +1,66 @@
+/* 实线边框 */
+hr.solid {
+  border-top: 3px solid #bbb;
+}
+footer {
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+ }
+.nav, .div{
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px; /* 轻微的圆角 */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 轻微的阴影 */
+} 
+a {
+	text-decoration: none;
+	}
+/*h1, p {
+  text-align: center;
+}*/
+
+@media (min-width: 1024px) {
+  .chengai {
+    min-height: 100vh;
+    display: flex;
+    align-self: ;lign-items: center;
+  }
+  .logo {
+  display: block;
+  margin: 0 auto 2rem;
+  padding: 10px 20px;
+}
+
+body {
+/* 加载背景图 */
+  min-height: 100vh;
+  color: var(--color-text);
+  background: var(--color-background);
+  transition:
+    color 0.5s,
+    background-color 0.5s;
+  line-height: 1.6;
+  font-family:
+    Inter,
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    'Fira Sans',
+    'Droid Sans',
+    'Helvetica Neue',
+    sans-serif;
+  font-size: 15px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
