@@ -30,7 +30,7 @@ position:fixed;
 
 .nav-menu a {
   text-decoration: none;
-  color: white;
+  color: black;
   transition: color 0.3s ease;
 }
 
