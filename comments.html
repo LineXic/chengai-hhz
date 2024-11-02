@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://unpkg.com/@waline/client@v3/dist/waline.css"/>
+     <link rel="stylesheet" href="css/style.css">
+     <link rel="stylesheet" href="css/nav.css">
+     <script src="js/nav.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>留言板 - 承挨汉化组官网</title>
+  </head>
+  
+ <body>
+<div class="div">
+ <a href="/"><img width="35px" src="./img/home.svg"></a>
+</div>
+  <h1>留言吧</h1>
+  <p>这里是留言板，你可以在这里反馈汉化组不足地方，也可以在这里聊天</p>
+  <!-- ... -->
+  <div id="waline"></div>
+  <script type="module">
+    import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+
+    init({
+      el: '#waline',
+      serverURL: 'https://talk.chengai77a6b.top',
+    });
+  </script>
+  
+  </boby>
+  </html>
+  
