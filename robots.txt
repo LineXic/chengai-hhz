@@ -1,0 +1,2 @@
+User-agent: *
+sitemap: https://chengai77a6b.top/sitemap.xml
