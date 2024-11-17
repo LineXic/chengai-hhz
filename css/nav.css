@@ -24,17 +24,17 @@ position:fixed;
   display: flex;
 }
 
-.nav-menu li {
+.nav-menu > li {
   padding: 0 10px;
 }
 
-.nav-menu a {
+.nav-menu > a {
   text-decoration: none;
   color: black;
   transition: color 0.3s ease;
 }
 
-.nav-menu a:hover {
+.nav-menu > a:hover {
   color: #f1c40f;
 }
 
@@ -61,7 +61,7 @@ position:fixed;
     display: flex;
   }
 
-  .nav-menu li {
+  .nav-menu > li {
     padding: 10px 
   }
 
