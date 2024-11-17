@@ -18,11 +18,11 @@ footer {
     border-radius: 5px; /* 轻微的圆角 */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 轻微的阴影 */
 } 
-/*a {
+a {
   color: black;
   text-decoration: underline;
   text-decoration-color: blue;
-}*/
+}
 /*h1, p {
   text-align: center;
 }*/
