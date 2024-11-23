@@ -1,3 +1,7 @@
+h1, p {
+  text-align: center;
+}
+
 span {
   background-color: yellow;
 }
