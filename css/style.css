@@ -41,6 +41,7 @@ footer {
 
 body {
 /* 加载背景图 */
+  background-image: url("https://chengai77a6b.top/img/bj.jpg");
   min-height: 100vh;
   color: var(--color-text);
   background: var(--color-background);
